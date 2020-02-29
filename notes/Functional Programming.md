@@ -1,8 +1,8 @@
 ---
-tags: [OOP]
+tags: [Functional Programming]
 title: Functional Programming
 created: '2020-02-24T17:27:02.198Z'
-modified: '2020-02-24T17:41:31.625Z'
+modified: '2020-02-29T11:16:20.229Z'
 ---
 
 # Functional Programming

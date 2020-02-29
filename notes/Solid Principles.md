@@ -1,8 +1,8 @@
 ---
-tags: [OOP]
+tags: [OOP ~ Object-Oriented Programming]
 title: Solid Principles
 created: '2020-02-24T17:08:43.874Z'
-modified: '2020-02-24T17:26:25.041Z'
+modified: '2020-02-29T12:38:27.493Z'
 ---
 
 # Solid Principles

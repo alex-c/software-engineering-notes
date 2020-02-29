@@ -1,8 +1,8 @@
 ---
-tags: [OOP]
+tags: [OOP ~ Object-Oriented Programming]
 title: Inheritance
 created: '2020-02-24T17:13:00.935Z'
-modified: '2020-02-24T17:49:52.717Z'
+modified: '2020-02-29T12:38:19.941Z'
 ---
 
 # Inheritance

@@ -1,13 +1,13 @@
 ---
-tags: [Functional P., OOP]
+tags: [Functional Programming, OOP ~ Object-Oriented Programming]
 title: Programming Paradigms
 created: '2020-02-24T14:15:44.179Z'
-modified: '2020-02-24T17:35:23.142Z'
+modified: '2020-02-29T12:54:40.557Z'
 ---
 
 # Programming Paradigms
 
-> [Wikipedia: Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+See [Wikipedia: Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm) for an overview of all programming paradigms.
 
 ## Declarative Programming
 
@@ -17,7 +17,7 @@ modified: '2020-02-24T17:35:23.142Z'
 
 [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements.
 
-> [Functional Programming](./Functional Programming.md)
+Note: [Functional Programming](./Functional Programming.md)
 
 ### Logic Programming
 
