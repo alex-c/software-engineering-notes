@@ -1,13 +1,14 @@
 ---
-tags: [Agile Software Development, Software Development Methodologies]
+attachments: [Models and Methodologies.png]
+tags: [Software Development Methodologies, TODO]
 title: Software Development Models
 created: '2020-02-29T11:10:38.155Z'
-modified: '2020-02-29T12:41:22.101Z'
+modified: '2020-03-16T11:25:06.200Z'
 ---
 
 # Software Development Models
 
-TODO
+![](@attachment/Models and Methodologies.png)
 
 ## Waterfall
 

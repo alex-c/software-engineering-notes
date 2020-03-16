@@ -1,8 +1,8 @@
 ---
-tags: [Functional Programming]
+tags: [Programming Paradigms]
 title: Functional Programming
 created: '2020-02-24T17:27:02.198Z'
-modified: '2020-02-29T11:16:20.229Z'
+modified: '2020-03-16T11:17:42.915Z'
 ---
 
 # Functional Programming

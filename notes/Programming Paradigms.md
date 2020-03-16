@@ -1,8 +1,8 @@
 ---
-tags: [Functional Programming, OOP ~ Object-Oriented Programming]
+tags: [Programming Paradigms, Programming Paradigms - OOP]
 title: Programming Paradigms
 created: '2020-02-24T14:15:44.179Z'
-modified: '2020-02-29T12:54:40.557Z'
+modified: '2020-03-16T11:17:31.095Z'
 ---
 
 # Programming Paradigms

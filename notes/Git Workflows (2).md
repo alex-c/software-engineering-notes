@@ -1,11 +1,11 @@
 ---
 tags: [TODO]
-title: GIT Workflows
+title: Git Workflows
 created: '2020-03-10T13:39:21.816Z'
-modified: '2020-03-10T13:41:01.134Z'
+modified: '2020-03-16T10:18:10.033Z'
 ---
 
-# GIT Workflows
+# Git Workflows
 
 ## Gitflow
 
