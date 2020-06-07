@@ -1,13 +1,16 @@
 ---
+attachments: [Programming Paradigms.png]
 tags: [Programming Paradigms, Programming Paradigms - OOP]
 title: Programming Paradigms
 created: '2020-02-24T14:15:44.179Z'
-modified: '2020-03-16T11:17:31.095Z'
+modified: '2020-05-18T17:47:49.462Z'
 ---
 
 # Programming Paradigms
 
 See [Wikipedia: Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm) for an overview of all programming paradigms.
+
+![](@attachment/Programming Paradigms.png)
 
 ## Declarative Programming
 
@@ -17,7 +20,7 @@ See [Wikipedia: Programming Paradigm](https://en.wikipedia.org/wiki/Programming_
 
 [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements.
 
-Note: [Functional Programming](./Functional Programming.md)
+Note: [](./Functional Programming.md)
 
 ### Logic Programming
 
@@ -34,3 +37,8 @@ Procedural programming is a programming paradigm based on the concept of the pro
 ### Object-Oriented Programming
 
 [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP) is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods). A feature of objects is an object's procedures that can access and often modify the data fields of the object with which they are associated (objects have a notion of "this" or "self"). In OOP, computer programs are designed by making them out of objects that interact with one another.
+
+Related notes:
+
+- [](./Inheritance.md)
+- [](./SOLID Principles.md)

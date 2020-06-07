@@ -1,11 +1,11 @@
 ---
 tags: [Programming Paradigms - OOP, Programming Principles]
-title: SOLID - Solid Principles
+title: SOLID Principles
 created: '2020-02-24T17:08:43.874Z'
-modified: '2020-03-16T11:17:20.786Z'
+modified: '2020-05-18T17:47:16.969Z'
 ---
 
-# SOLID - Solid Principles
+# SOLID Principles
 
 The [SOLID principles](https://en.wikipedia.org/wiki/SOLID) of object-oriented programming are:
 
