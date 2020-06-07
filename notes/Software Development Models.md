@@ -3,7 +3,7 @@ attachments: [Models and Methodologies.png, V-Model.png, Waterfall Model.png]
 tags: [Software Development Methodologies]
 title: Software Development Models
 created: '2020-02-29T11:10:38.155Z'
-modified: '2020-06-03T17:17:37.941Z'
+modified: '2020-06-07T13:00:25.877Z'
 ---
 
 # Software Development Models
@@ -38,3 +38,7 @@ Original principles:
 ### Mehtodologies
 
 [](./Lean Software Development.md) [](./Scrum.md) [](./Kanban.md)
+
+### Other Agile Topics
+
+[](./User Stories.md) [](./Agile Metrics.md)

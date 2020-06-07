@@ -3,7 +3,7 @@ pinned: true
 tags: [TODO]
 title: Overview
 created: '2020-03-16T10:55:46.489Z'
-modified: '2020-06-03T17:22:49.614Z'
+modified: '2020-06-07T13:00:41.079Z'
 ---
 
 # Overview
@@ -28,7 +28,6 @@ modified: '2020-06-03T17:22:49.614Z'
   - [Lean SD](./Lean Software Development.md)
   - [Scrum](./Scrum.md)
   - [Kanban](./Kanban.md)
-  - [Scrum vs. Kanban](./Scrum vs. Kanban.md)
 - [DevOps](./DevOps.md)
 
 ## Software Architecture
