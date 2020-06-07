@@ -3,7 +3,7 @@ pinned: true
 tags: [TODO]
 title: Overview
 created: '2020-03-16T10:55:46.489Z'
-modified: '2020-06-07T13:00:41.079Z'
+modified: '2020-06-07T13:34:08.242Z'
 ---
 
 # Overview
@@ -20,6 +20,16 @@ modified: '2020-06-07T13:00:41.079Z'
 
 - [Algorithm Complexity](./Algorithm Complexity.md)
 - [Common Algorithms](./Common Algorithms.md)
+- [Common Data Structures](./Common Data Structures.md)
+
+## Databases
+
+- [ACID](./ACID.md)
+
+## Distributed Systems
+
+- [CAP Theorem](./CAP - Theorem.md)
+- [Eventual Consistency](./Eventual Consistency.md)
 
 ## Software Development Models and Methodologies
 
